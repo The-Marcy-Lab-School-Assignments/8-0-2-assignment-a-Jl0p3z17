@@ -117,3 +117,7 @@ Then, add the deployed link to your GitHub About section of the Giphy Search app
 **Deployment Technical Requirements**
 
 - [ ] Your GitHub page has a link to the deployed server in the About section. 
+
+
+DEPLOYMENT LINK:
+https://eight-0-2-assignment-a-jl0p3z17.onrender.com
